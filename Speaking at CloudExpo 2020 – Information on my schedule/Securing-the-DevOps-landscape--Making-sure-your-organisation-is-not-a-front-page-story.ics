@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ASP Solutions//Showoff//EN
+BEGIN:VEVENT
+DTSTART:20200312T114500Z
+DTEND:20200312T121000Z
+LOCATION:DevOps 2
+SUMMARY:Securing the DevOps landscape\: Making sure your organisation is no
+	t a front page story
+DESCRIPTION:More than ever\, security is key to organisations and IT profes
+	sionals regardless of their role should be aware of and understand security
+	. With DevOps\, many are questioning the security of our tools and processe
+	s. In this session we will look at the common challenges\, questions and so
+	lutions when it comes to securing your DevOps investments.
+END:VEVENT
+END:VCALENDAR

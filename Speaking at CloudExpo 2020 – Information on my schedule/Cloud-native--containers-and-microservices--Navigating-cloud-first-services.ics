@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ASP Solutions//Showoff//EN
+BEGIN:VEVENT
+DTSTART:20200312T101500Z
+DTEND:20200312T104000Z
+LOCATION:DevOps 1
+SUMMARY:Cloud native\, containers and microservices\: Navigating cloud firs
+	t services
+DESCRIPTION:Today\, architects and engineers have a huge choice when it com
+	es to deploying cloud first applications. How do you decide which service i
+	s best for your application? Workload type\, environment and organisation c
+	an lead you to many different answers. In this session we will look at how 
+	to ensure you are deploying to the right platform in the right scenario.
+END:VEVENT
+END:VCALENDAR
